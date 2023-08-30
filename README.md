@@ -8,7 +8,7 @@
 
 ¡Sumérgete en la adictiva experiencia de Pato Click, el juego idle que te sumerge en un mundo lleno de plumas y fortuna! 🦆💰 
 
-Puedes lanzarte a la diversión haciendo clic [aquí](https://pato.vercel.app/).
+Puedes lanzarte a la diversión haciendo clic [aquí](https://pato-click.vercel.app/).
 
 ## Descripción
 
@@ -24,7 +24,7 @@ En este juego, tu objetivo es simple pero gratificante: ¡Acumula la mayor canti
 - **🏅 Logros:** Desbloquea logros conforme vayas avanzando en el juego. ¡Te animamos a que los consigas todos!
 - **😎 Skins:** Personaliza tu pato con skins exclusivas que podrás desbloquear con ciertos logros.
 
-## Próximas características (Pasada la KuroJam)
+## Próximas características
 - **Inicio de sesión 🔑:** Queremos que puedas guardar tu progreso y acceder a él desde cualquier dispositivo. ¡No te preocupes por perder tus patomonedas!
 - **Ranking 🏆:** Queremos implementar un ranking global para que puedas competir con otros jugadores, el cual incluirá un sistema de ligas.
 - **Reset 🔄:** Cuando tengas suficientes patomonedas, podrás resetear tu progreso para empezar de nuevo con mejoras que te permitan avanzar más rápido.
